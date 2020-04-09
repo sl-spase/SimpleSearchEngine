@@ -3,7 +3,7 @@ Simple version of serarch engine which processes some data and searches it for a
 programe.
 
 There are three serching strategy:
-ALL, ANY and NONE
+**ALL**, **ANY** and **NONE**
 - If the strategy is ALL, the program should print lines containing all words from the query:</br>
 Query:</br>
 Harrington Erick</br>
